@@ -1,46 +1,64 @@
-> "The best way to predict the future is to invent it." — Alan Kay
+# Hi, I'm Christopher Mendes 🚀
+### Full Stack Developer | Software Engineer
 
-### Hey there! I'm Christopher Mendes.
-
-I'm a **Full Stack Developer** from **Curitiba, Brazil**, focused on building practical web solutions with clean code, useful automation, and reliable back-end systems.
-
----
-
-### About Me
-
-- I work across front-end, back-end, databases, and infrastructure.
-- I enjoy turning ideas into simple, maintainable products.
-- I care about clear communication, good architecture, and steady delivery.
+I'm a **Full Stack Developer** based in **Curitiba, Brazil**, specializing in building scalable web solutions, efficient automations, and robust back-end architectures. I focus on delivering clean, maintainable code that solves real-world business problems.
 
 ---
 
-### Tech Stack
+### 🛠 Tech Stack
 
-<p align="center"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white" /> </p>
+**Languages & Core**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 
----
+**Frameworks & Libraries**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-### Highlighted Projects
-
-- [**Edén do Cerrado**](https://eden-connect.vercel.app/)  
-  A booking website for Edén do Cerrado, built around exclusive cabins, direct reservations, and internal operations.  
-
-- [**Game Score Keeper**](https://game-score.chmendes.com.br/)  
-  A simple app to track and manage game scores.  
-  [Repository](https://github.com/chrsmendes/game-score) · Status: Under development
-
----
-
-### What I Like Building
-
-- Web applications
-- Internal tools and automations
-- APIs and integrations
-- Database-driven systems
+**Infrastructure & Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
-### Let's Connect
+### 📂 Featured Projects
 
-📧 **Email**: mendes.chris@icloud.com  
-📱 **WhatsApp**: [+55 41 99928-8044](https://wa.me/5541999288044)
+#### 🌲 [Edén do Cerrado](https://eden-connect.vercel.app/)
+*Custom booking ecosystem and business management platform.*
+- **Challenge:** Replacing a third-party platform (Airbnb) with a high-performance, proprietary booking system to eliminate fees and provide the owner with total creative and operational autonomy.
+- **Tech Stack:** **Next.js**, **Tailwind CSS**, **PostgreSQL** (Neon/Docker), **Vercel**.
+- **Outcome:** A production-ready Full Stack application with a custom CMS and reservation engine, enabling unique business features, SEO dominance, and direct-to-consumer sales.
+
+#### 🎮 [Game Score Keeper](https://game-score.chmendes.com.br/)
+*Real-time score tracking application for competitive gaming.*
+- **Key Features:** Live state management, mobile-first design, and intuitive UX.
+- **Status:** Active development / [Repository](https://github.com/chrsmendes/game-score)
+
+---
+
+### 📊 My Coding Journey
+<p align="left">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chrsmendes&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chrsmendes&theme=tokyonight" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+I'm always open to discussing new projects, technical challenges, or remote opportunities.
+
+- 📧 **Email:** [mendes.chris@icloud.com](mailto:mendes.chris@icloud.com)
+- 💼 **LinkedIn:** [linkedin.com/in/christopher-mendes](https://www.linkedin.com/in/christopher-mendes/)
+- 📱 **WhatsApp:** [+55 41 99928-8044](https://wa.me/5541999288044)
+- 📍 **Location:** Curitiba, Brazil (UTC-3) - Available for global remote work.
+
+---
+*"The best way to predict the future is to invent it." — Alan Kay*
