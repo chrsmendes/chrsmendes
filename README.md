@@ -43,14 +43,6 @@ I'm a **Full Stack Developer** based in **Curitiba, Brazil**, specializing in bu
 
 ---
 
-### 📊 My Coding Journey
-<p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=chrsmendes&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chrsmendes&theme=tokyonight" />
-</p>
-
----
-
 ### 🤝 Let's Connect
 
 I'm always open to discussing new projects, technical challenges, or remote opportunities.
