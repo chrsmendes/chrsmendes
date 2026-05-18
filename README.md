@@ -47,7 +47,7 @@ I'm a **Full Stack Developer** based in **Curitiba, Brazil**, specializing in bu
 
 I'm always open to discussing new projects, technical challenges, or remote opportunities.
 
-- 📧 **Email:** [mendes.chris@icloud.com](mailto:mendes.chris@icloud.com)
+- 📧 **Email:** [titolei.bossle@gmail.com](mailto:titolei.bossle@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/christopher-mendes](https://www.linkedin.com/in/christopher-mendes/)
 - 📱 **WhatsApp:** [+55 41 99928-8044](https://wa.me/5541999288044)
 - 📍 **Location:** Curitiba, Brazil (UTC-3) - Available for global remote work.
